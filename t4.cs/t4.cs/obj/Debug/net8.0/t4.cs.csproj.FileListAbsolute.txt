@@ -1,0 +1,14 @@
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\bin\Debug\net8.0\t4.cs.exe
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\bin\Debug\net8.0\t4.cs.deps.json
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\bin\Debug\net8.0\t4.cs.runtimeconfig.json
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\bin\Debug\net8.0\t4.cs.dll
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\bin\Debug\net8.0\t4.cs.pdb
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\obj\Debug\net8.0\t4.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\obj\Debug\net8.0\t4.cs.AssemblyInfoInputs.cache
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\obj\Debug\net8.0\t4.cs.AssemblyInfo.cs
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\obj\Debug\net8.0\t4.cs.csproj.CoreCompileInputs.cache
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\obj\Debug\net8.0\t4.cs.dll
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\obj\Debug\net8.0\refint\t4.cs.dll
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\obj\Debug\net8.0\t4.cs.pdb
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\obj\Debug\net8.0\t4.cs.genruntimeconfig.cache
+D:\kamran uet\2nd sem\OOP\t4.cs\t4.cs\obj\Debug\net8.0\ref\t4.cs.dll

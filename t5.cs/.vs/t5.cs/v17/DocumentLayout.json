@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kamran uet\\2nd sem\\OOP\\t5.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F979336-2229-4E53-A437-FF718C1555F2}|t5.cs\\t5.cs.csproj|d:\\kamran uet\\2nd sem\\oop\\t5.cs\\t5.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F979336-2229-4E53-A437-FF718C1555F2}|t5.cs\\t5.cs.csproj|solutionrelative:t5.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kamran uet\\2nd sem\\OOP\\t5.cs\\t5.cs\\Program.cs",
+              "RelativeDocumentMoniker": "t5.cs\\Program.cs",
+              "ToolTip": "D:\\kamran uet\\2nd sem\\OOP\\t5.cs\\t5.cs\\Program.cs",
+              "RelativeToolTip": "t5.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:26:54.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
