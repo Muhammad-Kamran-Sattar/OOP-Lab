@@ -1,0 +1,15 @@
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\bin\Debug\net8.0\Challenge2.exe
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\bin\Debug\net8.0\Challenge2.deps.json
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\bin\Debug\net8.0\Challenge2.runtimeconfig.json
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\bin\Debug\net8.0\Challenge2.dll
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\bin\Debug\net8.0\Challenge2.pdb
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\obj\Debug\net8.0\Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\obj\Debug\net8.0\Challenge2.AssemblyInfoInputs.cache
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\obj\Debug\net8.0\Challenge2.AssemblyInfo.cs
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\obj\Debug\net8.0\Challenge2.csproj.CoreCompileInputs.cache
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\obj\Debug\net8.0\Challenge2.sourcelink.json
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\obj\Debug\net8.0\Challenge2.dll
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\obj\Debug\net8.0\refint\Challenge2.dll
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\obj\Debug\net8.0\Challenge2.pdb
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\obj\Debug\net8.0\Challenge2.genruntimeconfig.cache
+D:\kamran uet\2nd sem\Lab4\Challenge2\Challenge2\obj\Debug\net8.0\ref\Challenge2.dll

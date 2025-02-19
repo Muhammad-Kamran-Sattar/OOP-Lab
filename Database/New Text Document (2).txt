@@ -1,0 +1,28 @@
+Q1
+SELECT ProductName FROM products WHERE ProductID IN (SELECT OrderID FROM orderdetails  ) IS NULL
+***
+
+
+Q2
+SELECT CustomerName FROM customers WHERE CustomerID IN (SELECT OrderID FROM orderdetails  ) is null
+***
+
+
+Q3
+SELECT SupplierName FROM suppliers WHERE SupplierID IN (SELECT SupplierID FROM Products Where CategoryID = (SELECT CategoryID FROM categories where  CategoryName ='Seafood' )) 
+***
+
+
+Q4
+SELECT CustomerName  FROM customers c WHERE customerid IN (SELECT customerID FROM orders WHERE orderID IN (SELECT orderID FROM orderdetails WHERE orderdetails.productid IN (SELECT productID FROM products p WHERE p.supplierID IN (SELECT s.supplierID  FROM suppliers s WHERE city = c.city )))) 
+***
+
+
+Q5
+SELECT ProductName, CategoryID  FROM Products  WHERE Price = (SELECT MAX(Price) FROM Products p2 WHERE p2.CategoryID = Products.CategoryID) 
+***
+
+
+Q6
+SELECT OrderID  FROM OrderDetails  GROUP BY OrderID  HAVING SUM(Quantity) > 100
+***

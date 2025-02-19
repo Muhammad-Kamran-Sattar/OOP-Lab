@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C642FCA1-7882-4654-82D2-CCBC5CE64E72}|blackwidow.cs\\blackwidow.cs.csproj|d:\\kamran uet\\2nd sem\\lab2\\blackwidow.cs\\blackwidow.cs\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642FCA1-7882-4654-82D2-CCBC5CE64E72}|blackwidow.cs\\blackwidow.cs.csproj|solutionrelative:blackwidow.cs\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642FCA1-7882-4654-82D2-CCBC5CE64E72}|blackwidow.cs\\blackwidow.cs.csproj|d:\\kamran uet\\2nd sem\\lab2\\blackwidow.cs\\blackwidow.cs\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642FCA1-7882-4654-82D2-CCBC5CE64E72}|blackwidow.cs\\blackwidow.cs.csproj|solutionrelative:blackwidow.cs\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642FCA1-7882-4654-82D2-CCBC5CE64E72}|blackwidow.cs\\blackwidow.cs.csproj|d:\\kamran uet\\2nd sem\\lab2\\blackwidow.cs\\blackwidow.cs\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642FCA1-7882-4654-82D2-CCBC5CE64E72}|blackwidow.cs\\blackwidow.cs.csproj|solutionrelative:blackwidow.cs\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642FCA1-7882-4654-82D2-CCBC5CE64E72}|blackwidow.cs\\blackwidow.cs.csproj|d:\\kamran uet\\2nd sem\\lab2\\blackwidow.cs\\blackwidow.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642FCA1-7882-4654-82D2-CCBC5CE64E72}|blackwidow.cs\\blackwidow.cs.csproj|solutionrelative:blackwidow.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "enemy.cs",
+              "DocumentMoniker": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\enemy.cs",
+              "RelativeDocumentMoniker": "blackwidow.cs\\enemy.cs",
+              "ToolTip": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\enemy.cs",
+              "RelativeToolTip": "blackwidow.cs\\enemy.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:42:29.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "player.cs",
+              "DocumentMoniker": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\player.cs",
+              "RelativeDocumentMoniker": "blackwidow.cs\\player.cs",
+              "ToolTip": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\player.cs",
+              "RelativeToolTip": "blackwidow.cs\\player.cs",
+              "ViewState": "AgIAACAAAACAMzMzMzMhwBwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:21:27.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "body.cs",
+              "DocumentMoniker": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\body.cs",
+              "RelativeDocumentMoniker": "blackwidow.cs\\body.cs",
+              "ToolTip": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\body.cs",
+              "RelativeToolTip": "blackwidow.cs\\body.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:46:33.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\Program.cs",
+              "RelativeDocumentMoniker": "blackwidow.cs\\Program.cs",
+              "ToolTip": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\Program.cs",
+              "RelativeToolTip": "blackwidow.cs\\Program.cs",
+              "ViewState": "AgIAACkAAAAAMzMzMzPzvwsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:45:32.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

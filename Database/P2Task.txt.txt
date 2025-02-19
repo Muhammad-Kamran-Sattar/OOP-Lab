@@ -1,0 +1,48 @@
+Q1
+SELECT ProductName FROM products WHERE Price BETWEEN 25 AND 98
+***
+
+
+Q2
+SELECT CONCAT(FirstName, ' ', LastName) AS FullName FROM employees WHERE notes like '%french%' 
+***
+
+
+Q3
+SELECT FirstName,LastName FROM employees WHERE Notes LIKE '%psychology%' 
+***
+
+
+Q4
+SELECT CustomerName,Country FROM customers WHERE City LIKE 'London'
+***
+
+
+Q5
+SELECT OrderID, EmployeeID, ShipperID FROM orders
+***
+
+
+Q6
+SELECT SupplierName, SupplierID FROM suppliers WHERE SupplierID BETWEEN 5 AND 15
+***
+
+
+Q7
+SELECT  ProductName  FROM products WHERE Unit LIKE '%bottles%'
+***
+
+
+Q8
+SELECT  ProductName ,Price  FROM products WHERE ProductName LIKE 'C%'
+***
+
+
+Q9
+SELECT  ProductName  FROM products WHERE Unit LIKE '%boxes%'
+***
+
+
+Q10
+SELECT  City  FROM customers WHERE Country  LIKE 'Germany'
+***

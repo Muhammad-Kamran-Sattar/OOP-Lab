@@ -1,0 +1,7 @@
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 3\Challange_2\bin\Debug\Challange_2.exe.config
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 3\Challange_2\bin\Debug\Challange_2.exe
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 3\Challange_2\bin\Debug\Challange_2.pdb
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 3\Challange_2\obj\Debug\Challange_2.csproj.AssemblyReference.cache
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 3\Challange_2\obj\Debug\Challange_2.csproj.CoreCompileInputs.cache
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 3\Challange_2\obj\Debug\Challange_2.exe
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 3\Challange_2\obj\Debug\Challange_2.pdb

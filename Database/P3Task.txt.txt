@@ -1,0 +1,33 @@
+Q1
+SELECT distinct Country AS CountryList FROM customers
+***
+
+
+Q2
+SELECT  FirstName,LastName FROM employees WHERE FirstName  NOT LIKE 'a%' 
+***
+
+
+Q3
+SELECT  SupplierName FROM suppliers ORDER BY SupplierName ASC
+***
+
+
+Q4
+SELECT  ShipperName FROM shippers ORDER BY ShipperName ASC
+***
+
+
+Q5
+SELECT CustomerName,Address FROM customers WHERE Address LIKE '%Str%'
+***
+
+
+Q6
+SELECT ProductName, Unit FROM products WHERE Unit  LIKE  '% kg %' OR Unit LIKE '% g %'
+***
+
+
+Q7
+SELECT OrderID FROM orderdetails WHERE Quantity > 100
+***

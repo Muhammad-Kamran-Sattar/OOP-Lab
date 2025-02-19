@@ -1,0 +1,2 @@
+D:\kamran uet\2nd sem\Lab2\rough\rough\obj\Debug\rough.csproj.AssemblyReference.cache
+D:\kamran uet\2nd sem\Lab2\rough\rough\obj\Debug\rough.csproj.CoreCompileInputs.cache

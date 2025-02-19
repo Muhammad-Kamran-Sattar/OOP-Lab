@@ -1,0 +1,10 @@
+Q1
+SELECT * FROM orderdetails WHERE ProductID + OrderID > 5
+***
+
+
+Q2
+SELECT * FROM orderdetails WHERE OrderID - OrderID > 0
+***
+
+

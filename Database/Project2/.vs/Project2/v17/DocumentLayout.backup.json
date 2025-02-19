@@ -47,8 +47,7 @@
               "ViewState": "AgIAAFIAAAAANDMzMzMbwF0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T14:46:37.364Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Project2\\Attendance.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T10:57:32.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T10:57:32.021Z"
             },
             {
               "$type": "Document",
@@ -95,7 +93,7 @@
               "RelativeDocumentMoniker": "Project2\\Student.cs",
               "ToolTip": "D:\\kamran uet\\2nd sem\\Database\\Project2\\Project2\\Student.cs",
               "RelativeToolTip": "Project2\\Student.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAowDwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAABgZmZmZmY5wDwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T14:51:15.021Z",
               "EditorCaption": ""

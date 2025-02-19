@@ -1,0 +1,15 @@
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\bin\Debug\net8.0\ATM.cs.exe
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\bin\Debug\net8.0\ATM.cs.deps.json
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\bin\Debug\net8.0\ATM.cs.runtimeconfig.json
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\bin\Debug\net8.0\ATM.cs.dll
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\bin\Debug\net8.0\ATM.cs.pdb
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\obj\Debug\net8.0\ATM.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\obj\Debug\net8.0\ATM.cs.AssemblyInfoInputs.cache
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\obj\Debug\net8.0\ATM.cs.AssemblyInfo.cs
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\obj\Debug\net8.0\ATM.cs.csproj.CoreCompileInputs.cache
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\obj\Debug\net8.0\ATM.cs.sourcelink.json
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\obj\Debug\net8.0\ATM.cs.dll
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\obj\Debug\net8.0\refint\ATM.cs.dll
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\obj\Debug\net8.0\ATM.cs.pdb
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\obj\Debug\net8.0\ATM.cs.genruntimeconfig.cache
+D:\kamran uet\2nd sem\Lab2\ATM.cs\ATM.cs\obj\Debug\net8.0\ref\ATM.cs.dll

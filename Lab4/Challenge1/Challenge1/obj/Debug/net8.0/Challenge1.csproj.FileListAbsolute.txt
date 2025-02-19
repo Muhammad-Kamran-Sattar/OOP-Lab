@@ -1,0 +1,15 @@
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\bin\Debug\net8.0\Challenge1.exe
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\bin\Debug\net8.0\Challenge1.deps.json
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\bin\Debug\net8.0\Challenge1.runtimeconfig.json
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\bin\Debug\net8.0\Challenge1.dll
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\bin\Debug\net8.0\Challenge1.pdb
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.AssemblyInfoInputs.cache
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.AssemblyInfo.cs
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.csproj.CoreCompileInputs.cache
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.sourcelink.json
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.dll
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\obj\Debug\net8.0\refint\Challenge1.dll
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.pdb
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\obj\Debug\net8.0\Challenge1.genruntimeconfig.cache
+D:\kamran uet\2nd sem\Lab4\Challenge1\Challenge1\obj\Debug\net8.0\ref\Challenge1.dll

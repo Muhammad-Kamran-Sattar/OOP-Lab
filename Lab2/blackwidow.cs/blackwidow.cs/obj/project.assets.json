@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "EZInput/1.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/EZInput.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/EZInput.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EZInput/1.3.2": {
+      "sha512": "/upsIA5CsMN/AEWRV/Fu2UAilOfCIPMEJxCyx00qaChqJwt4f6q2OPPLWmluUUE2hmuKn035BoV4/kItbb+CXQ==",
+      "type": "package",
+      "path": "ezinput/1.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ezinput.1.3.2.nupkg.sha512",
+        "ezinput.nuspec",
+        "lib/netstandard2.0/EZInput.dll",
+        "lib/netstandard2.0/EZInput.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "EZInput >= 1.3.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ali Computers\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\blackwidow.cs.csproj",
+      "projectName": "blackwidow.cs",
+      "projectPath": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\blackwidow.cs.csproj",
+      "packagesPath": "C:\\Users\\Ali Computers\\.nuget\\packages\\",
+      "outputPath": "D:\\kamran uet\\2nd sem\\Lab2\\blackwidow.cs\\blackwidow.cs\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ali Computers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "EZInput": {
+            "target": "Package",
+            "version": "[1.3.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

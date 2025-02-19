@@ -1,0 +1,15 @@
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\bin\Debug\net8.0\POS.cs.exe
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\bin\Debug\net8.0\POS.cs.deps.json
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\bin\Debug\net8.0\POS.cs.runtimeconfig.json
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\bin\Debug\net8.0\POS.cs.dll
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\bin\Debug\net8.0\POS.cs.pdb
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\obj\Debug\net8.0\POS.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\obj\Debug\net8.0\POS.cs.AssemblyInfoInputs.cache
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\obj\Debug\net8.0\POS.cs.AssemblyInfo.cs
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\obj\Debug\net8.0\POS.cs.csproj.CoreCompileInputs.cache
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\obj\Debug\net8.0\POS.cs.sourcelink.json
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\obj\Debug\net8.0\POS.cs.dll
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\obj\Debug\net8.0\refint\POS.cs.dll
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\obj\Debug\net8.0\POS.cs.pdb
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\obj\Debug\net8.0\POS.cs.genruntimeconfig.cache
+D:\kamran uet\2nd sem\Lab2\POS.cs\POS.cs\obj\Debug\net8.0\ref\POS.cs.dll

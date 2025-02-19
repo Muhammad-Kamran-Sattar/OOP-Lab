@@ -1,0 +1,70 @@
+Q1
+SELECT e.employeeID, Concat(e.firstname,e.lastname)as employeename,s.ShipperID,s.ShipperName,ShipperID,s.ShipperName FROM employees e,shippers s
+***
+
+
+Q2
+SELECT c.CustomerID,c.CustomerName,s.ShipperID,s.ShipperName,LEFT(c.CustomerName, 3) AS FirstThreeCharacters FROM Customers c CROSS JOIN Shippers s WHERE c.CustomerName LIKE CONCAT(LEFT(s.ShipperName, 3), '%')
+***
+
+
+Q3
+SELECT e1.EmployeeID AS Employee1ID, Concat(e1.firstname,e1.lastname)  AS Employee1Name, e2.EmployeeID AS Employee2ID, Concat(e2.firstname,e2.lastname) AS Employee2Name FROM Employees e1 JOIN Employees e2  ON e1.EmployeeID < e2.EmployeeID ORDER BY e1.EmployeeID, e2.EmployeeID
+***
+
+
+Q4
+SELECT o.OrderID, c.CustomerName, p.ProductName, od.Quantity,  CONCAT(e.FirstName, ' ', e.LastName) AS EmployeeName,  s.ShipperName FROM Orders o JOIN Customers c ON o.CustomerID = c.CustomerID JOIN OrderDetails od ON o.OrderID = od.OrderID JOIN Products p ON od.ProductID = p.ProductID JOIN Employees e ON o.EmployeeID = e.EmployeeID JOIN Shippers s ON o.ShipperID = s.ShipperID ORDER BY o.OrderID
+***
+
+
+Q5
+SELECT p.ProductID,  p.ProductName,  c.CategoryName, s.SupplierName FROM Products p JOIN Categories c ON p.CategoryID = c.CategoryID JOIN Suppliers s ON p.SupplierID = s.SupplierID LEFT JOIN OrderDetails od ON p.ProductID = od.ProductID WHERE od.ProductID IS NULL ORDER BY p.ProductID
+***
+
+
+Q6
+SELECT o.OrderID, o.CustomerID, c.CustomerName, o.EmployeeID, CONCAT(e.FirstName, ' ', e.LastName) AS EmployeeName FROM Orders o LEFT JOIN Customers c ON o.CustomerID = c.CustomerID LEFT JOIN Employees e ON o.EmployeeID = e.EmployeeID ORDER BY o.OrderID
+***
+
+
+Q7
+SELECT o.OrderID, o.CustomerID, c.CustomerName, o.EmployeeID, CONCAT(e.FirstName, ' ', e.LastName) AS EmployeeName FROM Orders o LEFT JOIN Customers c ON o.CustomerID = c.CustomerID LEFT JOIN Employees e ON o.EmployeeID = e.EmployeeID ORDER BY o.OrderID;
+***
+
+
+Q8
+SELECT c.CustomerID, c.CustomerName, OrderId FROM Customers c LEFT JOIN Orders o ON c.CustomerID = o.CustomerID ORDER BY c.CustomerID
+***
+
+
+Q9
+SELECT o.OrderID, o.CustomerID, c.CustomerName, EXTRACT(HOUR FROM o.OrderDate) AS OrderHour FROM Orders o JOIN Customers c ON o.CustomerID = c.CustomerID WHERE EXTRACT(HOUR FROM o.OrderDate) < 9 OR EXTRACT(HOUR FROM o.OrderDate) > 17 ORDER BY o.OrderDate
+***
+
+
+Q10
+SELECT od1.ProductID, p.ProductName, o1.EmployeeID AS Employee1ID, CONCAT(e1.FirstName, ' ', e1.LastName) AS Employee1Name, o2.EmployeeID AS Employee2ID, CONCAT(e2.FirstName, ' ', e2.LastName) AS Employee2Name FROM OrderDetails od1 JOIN Orders o1 ON od1.OrderID = o1.OrderID JOIN Employees e1 ON o1.EmployeeID = e1.EmployeeID JOIN OrderDetails od2 ON od1.ProductID = od2.ProductID JOIN Orders o2 ON od2.OrderID = o2.OrderID JOIN Employees e2 ON o2.EmployeeID = e2.EmployeeID JOIN Products p ON od1.ProductID = p.ProductID WHERE o1.EmployeeID < o2.EmployeeID ORDER BY od1.ProductID, o1.EmployeeID, o2.EmployeeID
+***
+
+
+Q11
+SELECT s.SupplierID, s.SupplierName FROM Suppliers s LEFT JOIN Products p ON s.SupplierID = p.SupplierID GROUP BY s.SupplierID, s.SupplierName ORDER BY s.SupplierID
+***
+
+
+Q12
+SELECT c.CustomerID, c.CustomerName FROM Customers c LEFT JOIN Orders o ON c.CustomerID = o.CustomerID WHERE o.OrderID IS NULL ORDER BY c.CustomerID
+***
+
+
+Q13
+SELECT o1.CustomerID AS Customer1ID, c1.CustomerName AS Customer1Name, o2.CustomerID AS Customer2ID, c2.CustomerName AS Customer2Name, o1.OrderDate FROM Orders o1 JOIN Orders o2 ON o1.OrderDate = o2.OrderDate AND o1.CustomerID < o2.CustomerID JOIN Customers c1 ON o1.CustomerID = c1.CustomerID JOIN Customers c2 ON o2.CustomerID = c2.CustomerID ORDER BY o1.OrderDate, o1.CustomerID, o2.CustomerID
+***
+
+
+Q14
+SELECT o1.CustomerID, c.CustomerName, o1.EmployeeID AS Employee1ID, CONCAT(e1.FirstName, ' ', e1.LastName) AS Employee1Name, o2.EmployeeID AS Employee2ID,  CONCAT(e2.FirstName, ' ', e2.LastName) AS Employee2Name FROM Orders o1 JOIN Orders o2 ON o1.CustomerID = o2.CustomerID AND o1.EmployeeID < o2.EmployeeID   JOIN Customers c ON o1.CustomerID = c.CustomerID JOIN Employees e1 ON o1.EmployeeID = e1.EmployeeID JOIN Employees e2 ON o2.EmployeeID = e2.EmployeeID ORDER BY o1.CustomerID, o1.EmployeeID, o2.EmployeeID
+***
+
+

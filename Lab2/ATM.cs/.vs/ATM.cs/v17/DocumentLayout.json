@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kamran uet\\2nd sem\\Lab2\\ATM.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87F651BB-54C5-4C8F-844D-74BA987E9993}|ATM.cs\\ATM.cs.csproj|d:\\kamran uet\\2nd sem\\lab2\\atm.cs\\atm.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F651BB-54C5-4C8F-844D-74BA987E9993}|ATM.cs\\ATM.cs.csproj|solutionrelative:atm.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F651BB-54C5-4C8F-844D-74BA987E9993}|ATM.cs\\ATM.cs.csproj|d:\\kamran uet\\2nd sem\\lab2\\atm.cs\\atm.cs\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F651BB-54C5-4C8F-844D-74BA987E9993}|ATM.cs\\ATM.cs.csproj|solutionrelative:atm.cs\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ATM.cs",
+              "DocumentMoniker": "D:\\kamran uet\\2nd sem\\Lab2\\ATM.cs\\ATM.cs\\ATM.cs",
+              "RelativeDocumentMoniker": "ATM.cs\\ATM.cs",
+              "ToolTip": "D:\\kamran uet\\2nd sem\\Lab2\\ATM.cs\\ATM.cs\\ATM.cs",
+              "RelativeToolTip": "ATM.cs\\ATM.cs",
+              "ViewState": "AgIAACoAAAAAMzMzMzMXwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:02:17.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kamran uet\\2nd sem\\Lab2\\ATM.cs\\ATM.cs\\Program.cs",
+              "RelativeDocumentMoniker": "ATM.cs\\Program.cs",
+              "ToolTip": "D:\\kamran uet\\2nd sem\\Lab2\\ATM.cs\\ATM.cs\\Program.cs",
+              "RelativeToolTip": "ATM.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:00:49.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
